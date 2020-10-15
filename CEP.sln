@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CEP", "CEP\CEP.csproj", "{9AC05295-6FBE-4CDD-8D80-47E2F8B97D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC05295-6FBE-4CDD-8D80-47E2F8B97D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC05295-6FBE-4CDD-8D80-47E2F8B97D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC05295-6FBE-4CDD-8D80-47E2F8B97D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC05295-6FBE-4CDD-8D80-47E2F8B97D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {486A753C-9E3B-4478-A767-A214696904C9}
+	EndGlobalSection
+EndGlobal
